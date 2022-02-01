@@ -10,10 +10,6 @@ Gowes mesepedaan sareng timpal-timpal ring Denpasar.
 
 <!-- ![screenshot](https://user-images.githubusercontent.com/4316355/89967318-2a4ce200-dc1f-11ea-86e9-2e3dc1d52a2d.jpg) -->
 
-## Demo URL
-
-[https://nuxt-portfolio-starter.netlify.app/](https://nuxt-portfolio-starter.netlify.app/)
-
 ## Features
 
 - Clean and minimal design
@@ -24,11 +20,6 @@ Gowes mesepedaan sareng timpal-timpal ring Denpasar.
 - Theme Switcher with Dark Mode
 - Syntax highlighting with Prism
 - 404 Page
-
-## Todo (already done in Gridsome version)
-
-- Tags for posts
-- Search posts with [Fuse.js](https://fusejs.io) and [vue-fuse](https://github.com/shayneo/vue-fuse)
 
 ## Installation
 
