@@ -8,6 +8,7 @@
       <!-- <div class="mt-8 sm:mt-0">
         <img src="~assets/img/developer.svg" alt="hero" class="mx-auto sm:mx-0" />
       </div> -->
+      <div class="mt-8 sm:mt-0 flex"><img src="~assets/img/avatar.png" alt="avatar" class="w-32 h-32 rounded-full mb-8 lg:mb-0 ml-auto mr-auto" /></div>
     </div> <!-- end hero -->
 
     <div class="container-inner mx-auto">
@@ -29,7 +30,7 @@
 
     <div class="overflow-x-hidden">
       <div class="projects container-inner mx-auto text-xl border-t border-gray-500 border-b py-16 mb-16 relative">
-        <!-- <h2 class="font-bold mb-6" id="projects">:</h2> -->
+        <!-- <h2 class="font-bold mb-6" id="beranda"></h2> -->
 
         <div class="absolute right-0" style="top: 50px; transform: translate(100%) rotate(180deg)">
           <svg width="170px" height="170px"><use xlink:href="#dots-triangle" /></svg>

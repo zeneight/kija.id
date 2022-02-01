@@ -21,10 +21,10 @@
           <li>
             <theme-switcher :theme="theme" @themeChanged="updateTheme" />
           </li>
-          <li>
-            <a v-if="$route.path === '/'" href="/#projects" v-scroll-to="'#projects'" class="text-copy-primary hover:text-gray-600">Tempat</a>
-            <nuxt-link v-else to="/#projects" v-scroll-to="'/#projects'" class="text-copy-primary hover:text-gray-600">Projects</nuxt-link>
-          </li>
+          <!-- <li>
+            <a v-if="$route.path === '/'" href="/#beranda" v-scroll-to="'#beranda'" class="text-copy-primary hover:text-gray-600">Beranda</a>
+            <nuxt-link v-else to="/#beranda" v-scroll-to="'/#beranda'" class="text-copy-primary hover:text-gray-600">Beranda</nuxt-link>
+          </li> -->
           <li>
             <a v-if="$route.path === '/'" href="/#about" v-scroll-to="'#about'" class="text-copy-primary hover:text-gray-600">Tentang</a>
             <nuxt-link v-else to="/#about" v-scroll-to="'/#about'" class="text-copy-primary hover:text-gray-600">Tentang</nuxt-link>
