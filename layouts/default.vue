@@ -30,7 +30,7 @@
             <nuxt-link v-else to="/#about" v-scroll-to="'/#about'" class="text-copy-primary hover:text-gray-600">Tentang</nuxt-link>
           </li>
           <li>
-            <nuxt-link to="/blog" class="text-copy-primary hover:text-gray-600">Blog</nuxt-link>
+            <!-- <nuxt-link to="/blog" class="text-copy-primary hover:text-gray-600">Blog</nuxt-link> -->
             <!-- <g-link to="/blog" class="text-copy-primary hover:text-gray-600">Blog</g-link> -->
           </li>
         </ul>
