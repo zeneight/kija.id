@@ -6,7 +6,7 @@ summary: Bersepeda perlu memerlukan skill, tidak sembarang orang bisa bersepeda 
 tags: ['sepeda', 'sustainable', 'gowes']
 ---
 
-![background](/blog_bg_1.jpg)
+![background](/foto-bertiga.jpg)
 
 > Bersepeda perlu memerlukan skill, tidak sembarang orang bisa bersepeda dengan benar, efisien dan aman. Di dalam artikel ini, kami akan menjelasakan bagaimana caranya bersepeda untuk pemula aka newbie agar kalian mendapatkan manfaat dari bersepeda. Tapi sebelum itu mari kita lihat dulu di bawah beberapa alasan kenapa kalian harus mulai bersepeda dari sekarang!  
 
