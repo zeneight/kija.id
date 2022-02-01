@@ -2,29 +2,29 @@
   <div>
     <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-16">
       <div class="text-4xl font-bold w-full sm:w-3/5 text-center sm:text-left">
-        <div class="leading-tight">Kija.id</div>
+        <div class="leading-tight">Gowes Santai</div>
         <div class="text-green-700 leading-tight">Mesepedaan sareng timpal-timpal</div>
       </div>
-      <div class="mt-8 sm:mt-0">
+      <!-- <div class="mt-8 sm:mt-0">
         <img src="~assets/img/developer.svg" alt="hero" class="mx-auto sm:mx-0" />
-      </div>
+      </div> -->
     </div> <!-- end hero -->
 
     <div class="container-inner mx-auto">
       
 
       <p class="text-lg sm:text-xl">
-        Bersepeda adalah sebuah kegiatan rekreasi atau olahraga, serta merupakan salah satu moda transportasi darat yang menggunakan sepeda. Banyak penggemar bersepeda yang melakukan kegiatan tersebut di berbagai macam medan, misalnya perbukitan, medan yang terjal maupun hanya sekadar di pedesaan dan perkotaan saja. Orang yang mempergunakan sepeda sebagai moda transportasi rutin juga dapat disebut komuter. Penggunaan sepeda sebagai moda transportasi rutin tidak hanya dilakukan oleh pekerja yang bekerja di sektor non-formal, tetapi juga dilakukan oleh pekerja yang bekerja di sektor formal. 
+        Bersepeda adalah sebuah kegiatan rekreasi atau olahraga, serta merupakan salah satu moda transportasi darat yang menggunakan sepeda. Orang yang mempergunakan sepeda sebagai moda transportasi rutin juga dapat disebut komuter. Penggunaan sepeda sebagai moda transportasi rutin tidak hanya dilakukan oleh pekerja yang bekerja di sektor non-formal, tetapi juga dilakukan oleh pekerja yang bekerja di sektor formal. 
       </p>
 
-      <!-- <div class="flex justify-between items-center py-6">
-        <div class="w-full sm:w-1/2 px-8 py-8 sm:py-0">
+      <div class="flex justify-between items-center py-6">
+        <!-- <div class="w-full sm:w-1/2 px-8 py-8 sm:py-0">
           <img src="~assets/img/mind_map.svg" alt="browser" />
         </div>
         <div class="w-1/2 px-8 hidden sm:flex justify-end">
           <img src="~assets/img/code_review.svg" alt="mobile" />
-        </div>
-      </div> -->
+        </div> -->
+      </div>
     </div>
 
     <div class="overflow-x-hidden">
@@ -66,7 +66,7 @@
         </div>
 
         <div class="flex flex-col sm:flex-row justify-between items-center mb-16">
-          <div><img src="~assets/img/avatar.jpg" alt="avatar" class="w-32 h-32 rounded-full mb-8 lg:mb-0" /></div>
+          <div><img src="~assets/img/avatar.png" alt="avatar" class="w-32 h-32 rounded-full mb-8 lg:mb-0" /></div>
           <div class="flex-1 text-lg sm:text-xl ml-6">Kija.id adalah sebuah komunitas gowes santai di Denpasar. Web ini merupakan wadah untuk sharing berbagai hal mengenai bersepeda santai, lokasi, tips/trik serta hal-hal yang berhubungan dengan transportasi dan <i>urban planning</i> yang ada di Kota Denpasar dan sekitarnya.</div>
         </div>
 

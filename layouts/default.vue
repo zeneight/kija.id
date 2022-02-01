@@ -3,8 +3,8 @@
     <header class="border-t-14 border-green-700">
       <nav class="container mx-auto flex flex-wrap justify-between items-center py-8">
         <div>
-          <nuxt-link v-if="theme === 'theme-light'" to="/"><img src="~/assets/img/nuxt-logo.svg" alt="logo" class="w-32" /></nuxt-link>
-          <nuxt-link v-else to="/"><img src="~/assets/img/nuxt-logo-white.svg" alt="logo" class="w-32" /></nuxt-link>
+          <nuxt-link v-if="theme === 'theme-light'" to="/"><img src="~/assets/img/kija-logo.png" alt="logo" class="w-32" /></nuxt-link>
+          <nuxt-link v-else to="/"><img src="~/assets/img/kija-white-logo.png" alt="logo" class="w-32" /></nuxt-link>
         </div>
         <div class="block lg:hidden">
           <button @click="toggle" class="flex items-center px-3 py-2 border rounded border-gray-500 hover:text-gray-600 hover:border-gray-600">

@@ -11,14 +11,14 @@
       </div>
 
       <div class="mb-8">
-        <nuxt-link :to="`/posts/${post.slug}`" class="font-bold uppercase">Read More</nuxt-link>
+        <nuxt-link :to="`/posts/${post.slug}`" class="font-bold">Lihat...</nuxt-link>
       </div>
     </div> <!-- end post -->
 
     <div class="flex justify-between text-xl items-center">
-      <a :href="previousPage" :class="{ 'text-gray-400 hover:text-gray-400 cursor-not-allowed': !showPreviousPage }">&larr; Prev</a>
-      <div class="text-base">Page {{ currentPage }} of {{ totalPages }}</div>
-      <a :href="nextPage" :class="{ 'text-gray-400 hover:text-gray-400 cursor-not-allowed': !showNextPage }">Next &rarr;</a>
+      <a :href="previousPage" :class="{ 'text-gray-400 hover:text-gray-400 cursor-not-allowed': !showPreviousPage }">&larr; Sebelum</a>
+      <div class="text-base">Hal {{ currentPage }} dari {{ totalPages }}</div>
+      <a :href="nextPage" :class="{ 'text-gray-400 hover:text-gray-400 cursor-not-allowed': !showNextPage }"> Lanjut &rarr;</a>
     </div>
   </div>
 </template>
