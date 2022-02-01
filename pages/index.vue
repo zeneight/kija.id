@@ -38,20 +38,20 @@
 
         <ul class="text-lg sm:text-xl space-y-6">
           <li class="checkmark">
-            <div>Tempat 1</div>
-            <div class="text-lg text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ab nam animi iure nemo exercitationem a, eius non culpa itaque!</div>
+            <div>Menjaga kesehatan jantung dan pembuluh darah</div>
+            <div class="text-lg text-gray-600">Bersepeda dapat mengoptimalkan kinerja sistem kardiovaskular, yaitu jantung dan pembuluh darah, dengan cara memperkuat otot jantung dan meningkatkan sirkulasi darah ke seluruh tubuh. Dengan kinerja sistem kardiovaskular yang baik, risiko terkena stroke, serangan jantung, dan tekanan darah tinggi dapat dikurangi.</div>
           </li>
           <li class="checkmark">
-            <div>Tempat 2</div>
-            <div class="text-lg text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ab nam animi iure nemo exercitationem a, eius non culpa itaque!</div>
+            <div>Menjaga kesehatan otot dan sendi</div>
+            <div class="text-lg text-gray-600">Bersepeda dapat memperkuat otot kaki, bokong, paha, betis, pinggul, perut, lengan, dan bahu. Tak hanya itu, bersepeda juga baik untuk persendian dan telah terbukti bermanfaat bagi penderita <i>osteoartritis</i></div>
           </li>
           <li class="checkmark">
-            <div>Tempat 3</div>
-            <div class="text-lg text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ab nam animi iure nemo exercitationem a, eius non culpa itaque!</div>
+            <div>Menjaga berat badan</div>
+            <div class="text-lg text-gray-600">Bersepeda dapat menjaga berat badan tetap ideal, karena mampu membakar lemak dan meningkatkan laju metabolisme tubuh. Bersepeda selama 1 jam saja dapat membakar setidaknya 600 kalori.</div>
           </li>
           <li class="checkmark">
-            <div>Tempat 4</div>
-            <div class="text-lg text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ab nam animi iure nemo exercitationem a, eius non culpa itaque!</div>
+            <div>Menurunkan tingkat stres</div>
+            <div class="text-lg text-gray-600">Saat bersepeda, tubuh akan menurunkan kadar hormon stres, seperti adrenalin dan kortisol, di dalam tubuh. Tak hanya itu, melihat dan menikmati pemandangan saat bersepeda juga dapat menurunkan stres yang dialami</div>
           </li>
 
         </ul>
@@ -72,7 +72,7 @@
         </div>
 
         <div class="responsive-container">
-          <iframe class="responsive-iframe w-full h-full top-0 left-0 border-0" src="https://www.youtube.com/embed/uHo6o1TNQeE" style="border:0;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe class="responsive-iframe w-full h-full top-0 left-0 border-0" src="https://www.youtube.com/watch?v=Boi0XEm9-4E" style="border:0;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
       </div> <!-- end get-to-know me -->
     </div>
