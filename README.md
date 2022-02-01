@@ -1,8 +1,14 @@
-# Nuxt Portfolio Starter
+# Kija.id
 
-A simple portfolio starter theme for Nuxt.js static sites. Based on my [Gridsome Portfolio Starter](https://github.com/drehimself/gridsome-portfolio-starter).
+A simple web about cycling & other public transportation on Denpasar.
+Gowes mesepedaan sareng timpal-timpal ring Denpasar.
 
-![screenshot](https://user-images.githubusercontent.com/4316355/89967318-2a4ce200-dc1f-11ea-86e9-2e3dc1d52a2d.jpg)
+## Web Stacks
+
+- nuxt.js
+- tailwind
+
+<!-- ![screenshot](https://user-images.githubusercontent.com/4316355/89967318-2a4ce200-dc1f-11ea-86e9-2e3dc1d52a2d.jpg) -->
 
 ## Demo URL
 
