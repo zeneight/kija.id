@@ -22,16 +22,12 @@
             <theme-switcher :theme="theme" @themeChanged="updateTheme" />
           </li>
           <li>
-            <a v-if="$route.path === '/'" href="/#projects" v-scroll-to="'#projects'" class="text-copy-primary hover:text-gray-600">Projects</a>
+            <a v-if="$route.path === '/'" href="/#projects" v-scroll-to="'#projects'" class="text-copy-primary hover:text-gray-600">Tempat</a>
             <nuxt-link v-else to="/#projects" v-scroll-to="'/#projects'" class="text-copy-primary hover:text-gray-600">Projects</nuxt-link>
           </li>
           <li>
-            <a v-if="$route.path === '/'" href="/#about" v-scroll-to="'#about'" class="text-copy-primary hover:text-gray-600">About</a>
-            <nuxt-link v-else to="/#about" v-scroll-to="'/#about'" class="text-copy-primary hover:text-gray-600">About</nuxt-link>
-          </li>
-          <li>
-            <a v-if="$route.path === '/'" href="/#contact" v-scroll-to="'#contact'" class="text-copy-primary hover:text-gray-600">Contact</a>
-            <nuxt-link v-else to="/#contact" v-scroll-to="'/#contact'" class="text-copy-primary hover:text-gray-600">Contact</nuxt-link>
+            <a v-if="$route.path === '/'" href="/#about" v-scroll-to="'#about'" class="text-copy-primary hover:text-gray-600">Tentang</a>
+            <nuxt-link v-else to="/#about" v-scroll-to="'/#about'" class="text-copy-primary hover:text-gray-600">Tentang</nuxt-link>
           </li>
           <li>
             <nuxt-link to="/blog" class="text-copy-primary hover:text-gray-600">Blog</nuxt-link>
@@ -47,7 +43,7 @@
     <footer class="bg-green-700 text-white">
       <div class="container mx-auto flex flex-col lg:flex-row items-center justify-between py-8">
         <div class="mb-8 lg:mb-0">
-          <div>Copyright {{ new Date().getFullYear() }}. All rights reserved.</div>
+          <div>Copyright Kija.id {{ new Date().getFullYear() }}. All rights reserved.</div>
         </div>
         <ul class="flex items-center space-x-8">
           <li>
