@@ -2,7 +2,7 @@
 title: Bicycle Traffic
 path: /bicycle-traffic
 date: 2023-02-14
-summary: Antrian sepeda
+summary: Bicycle traffic or motorcycle and car traffic? Of course the good one is the bicycle traffic. Why though?
 tags: ['sepeda', 'sustainable', 'gowes']
 ---
 
